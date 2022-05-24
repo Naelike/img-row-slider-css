@@ -1,6 +1,6 @@
 # Img  Row Slider CSS
 
-CSS ทำรูปภาพ หรือทำ Logo Slider ไม่ต้องใช้ JS หรือ Javascript
+CSS + HTML ทำรูปภาพ หรือทำ Logo Slider ไม่ต้องใช้ JS หรือ Javascript
 
 # HTML
 ```
